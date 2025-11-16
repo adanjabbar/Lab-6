@@ -1,6 +1,6 @@
-The number of elements that are greater than the previous one: A sequence consists of integer numbers 
+/*The number of elements that are greater than the previous one: A sequence consists of integer numbers 
 and ends with the number 0. Determine how many elements of this sequence are greater than their 
-neighbours above. 
+neighbours above. */
 
   import java.util.Scanner;
 public class l3{
