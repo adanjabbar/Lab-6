@@ -1,6 +1,6 @@
-The index of the maximum of a sequence: A sequence consists of integer numbers and ends with the 
+/*The index of the maximum of a sequence: A sequence consists of integer numbers and ends with the 
 number 0. Determine the index of the largest element of the sequence. If the highest element is not unique, 
-print the index of the first of them. 
+print the index of the first of them.*/ 
 
   import java.util.Scanner;
 public class l1{
